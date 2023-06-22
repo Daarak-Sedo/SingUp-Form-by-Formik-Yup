@@ -19,6 +19,7 @@ const SignUpSchema = Yup.object().shape({
   ),
 });
 
+
 const SignupForm = () => {
   return (
     <>
